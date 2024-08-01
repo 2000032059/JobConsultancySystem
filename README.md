@@ -24,10 +24,8 @@ Server: Apache Tomcat
 Installation
 Clone the Repository:
 
-sh
-Copy code
-git clone https://github.com/2000032059/jobconsultancymanagement-system.git
-cd job-consultancy-management-system
+
+
 Setup Database:
 
 Create a new MySQL database.
@@ -41,7 +39,7 @@ Build the project using your preferred IDE (e.g., Eclipse, IntelliJ IDEA).
 Deploy the project to Apache Tomcat server.
 Run the Application:
 
-Access the application in your web browser at http://localhost:8080/job-consultancy-management-system.
+
 Contributing
 We welcome contributions to enhance the functionality and improve the codebase of this project. If you would like to contribute, please follow these steps:
 
